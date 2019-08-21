@@ -1,0 +1,40 @@
+
+.changeOpacity img {
+  opacity:0.8;
+}
+img{
+  border: center;
+}
+#quoteFont{
+  font-size:30px;
+  color: #FFF;
+  font-family: 'Titillium Web', sans-serif;
+}
+.carousel-caption{
+  position: absolute;
+  padding-top: 200px;
+  top :0;
+  bottom: auto;
+  text-shadow: none;
+  text-align: center;
+  left: 46%;
+  right: -3%;
+  display: inline-block;
+}
+.blueBackground {
+  background-color: #97FFFF;
+}
+#whiteJumbo {
+  padding-top: 50px;
+  background-color: #FFF;
+}
+
+.changeText{
+  font-family: 'Exo 2', sans-serif;
+}
+
+.row{
+  padding-top:30px;
+  font-size:15px;
+}
+
